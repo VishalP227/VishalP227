@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishal Patil (@VishalP227)
-- 👀 I’m interested in machine learning and data science. I worked on Driver Assistant project in my last role hence the interest in this field, trying to      transition into ML focused roles.   
+- 👀 I worked for 2 years in automotive industry before deciding to puruse my interests in the field of machine learning and pivot my career towards this domain   
 - 🌱 I’m currently enrolled as a Masters student at University of Southern California. I am majoring in Electrical and Computer engineering with a focus on      Machine Learning and Data Scinece
 - 💞️ I’m looking to collaborate on ML and Data Science projects
 - 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/vshlpatil/ 
