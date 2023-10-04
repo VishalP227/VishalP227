@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Vishal Patil (@VishalP227)
-- 👀 I worked for 2 years in automotive industry before deciding to puruse my interests in the field of machine learning and pivot my career towards the domain of artificial intelligence   
-- 🌱 I’m currently enrolled as a Masters student at University of Southern California. I am majoring in Electrical and Computer engineering with a focus on      Machine Learning and Data Scinece
-- 💞️ I’m looking to collaborate on ML and Data Science projects
+- 👋 Hey, I'm Vishal Patil, known as @VishalP227 on Github.
+- 🌱 I'm 2nd year graduate student pursuing my Master's at the University of Southern California with a major in Electrical and Computer Engineering.
+- 💞️ I'm enthusiastic about collaborating on projects related to autonomous driving research, Computer Vision, Data Science, and all things software—I thrive when working with code!
 - 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/vshlpatil/ 
 
 <!---
